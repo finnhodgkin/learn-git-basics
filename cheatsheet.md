@@ -9,6 +9,9 @@
 ##### Creating a new branch for you to work on
 		git branch <new branch name>
 
+##### Create a new branch and move into it
+		git checkout -b <new branch name>
+
 ##### See all branches in your remote repository
 		git branch -a
 
@@ -20,4 +23,3 @@
 
 ##### Moving files while preserving git history
 		git mv <source> <destination>
- 
